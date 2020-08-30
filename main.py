@@ -4,7 +4,11 @@ print("Escape sequences \n\\a \tBell (alert) \n\\b \tBackspace \n\\n \tNew Line"
 
 
 
-
+print("\n     *      *       * * *     ***     *  *")
+print("\n    * *     * *     * *   *   *   *       ")
+print("\n   *****    *   *   * *    *  ***     *  *")
+print("\n  *     *   *     * * *    *  **      *  *")
+print("\n*        *  *       * * *     *  *    *  *")
 
 
 
