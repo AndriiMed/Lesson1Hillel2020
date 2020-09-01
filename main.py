@@ -1,8 +1,7 @@
-n = input("What is your name:")
-if n == "Andrii":
+n = input("Insert:")
+if n == "Hello":
     print("Hello, Andrii!")
-if n != "Andrii":
-    print("I don't know you")
+
 
 
 
