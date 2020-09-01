@@ -1,6 +1,6 @@
-n = input("Insert:")
-if n == "Hello":
-    print("Hello, Andrii!")
+
+Name = input("Input name:")
+print("Hello", Name)
 
 
 
