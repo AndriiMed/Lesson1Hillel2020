@@ -1,14 +1,8 @@
-
-print("Escape sequences \n\\a \tBell (alert) \n\\b \tBackspace \n\\n \tNew Line"
-      " \n\\t \tHorizontal tab \n\\\ \tBackslash \ \n\\\" \tDouble quotation mark   \n\\\' \tSingle quotation mark  """)
-
-
-
-print("\n     *      *       * * *     ***     *  *")
-print("\n    * *     * *     * *   *   *   *       ")
-print("\n   *****    *   *   * *    *  ***     *  *")
-print("\n  *     *   *     * * *    *  **      *  *")
-print("\n*        *  *       * * *     *  *    *  *")
+n = input("What is your name:")
+if n == "Andrii":
+    print("Hello, Andrii!")
+if n != "Andrii":
+    print("I don't know you")
 
 
 
